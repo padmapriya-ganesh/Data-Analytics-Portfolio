@@ -20,5 +20,5 @@ Welcome! I am a results-driven Data Analyst utilizing data manipulation and visu
 * **Objective**: Engineered a unified cross-platform reporting workflow to analyze product performance.
 * **Tech Used**: Tableau, Power BI, Power Query, DAX (Measures & Dimensions)
 * **Impact**: Built identical high-fidelity dashboards tracking 10+ core KPIs (Net sales, market basket trends) to quantify business impact.
-* 📂 [View Dashboards & Visualizations](./) *(Note: link your dashboard screenshots here)*
+* 📂 [View Dashboards & Visualizations](./PowerBI & Tableau - Menu Optimization) 
 
