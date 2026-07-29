@@ -4,7 +4,7 @@ Welcome! I am a results-driven Data Analyst utilizing data manipulation and visu
 
 ## 🛠️ Tech Stack
 * **Languages & Querying**: SQL (PostgreSQL, MySQL), Python (Pandas, NumPy, Matplotlib)
-* **Data Visualization**: Tableau, Power BI, Advanced Excel
+* **Data Visualization**: Tableau, Power BI, Excel
 
 ---
 
