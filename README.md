@@ -14,7 +14,7 @@ Welcome! I am a results-driven Data Analyst utilizing data manipulation and visu
 * **Objective**: Analyzed a 10,000-customer banking dataset to uncover retention metrics.
 * **Tech Used**: PostgreSQL (Window functions, Aggregate models, Segmentation)
 * **Impact**: Identified 7 key churn patterns and flagged the top 10 high-risk profiles for targeted retention strategies.
-* 📂 [View SQL Scripts & Documentation](./) *(Note: link your files here)*
+* 📂 [View SQL Scripts & Documentation](./)
 
 ### 2. Restaurant Menu Optimization (Tableau & Power BI)
 * **Objective**: Engineered a unified cross-platform reporting workflow to analyze product performance.
